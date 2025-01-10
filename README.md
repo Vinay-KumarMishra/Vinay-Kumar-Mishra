@@ -1,3 +1,5 @@
+![logo](https://github.com/Vinay-KumarMishra/Vinay-Kumar-Mishra/blob/main/Blue%20Modern%20Company%20Slogan%20LinkedIn%20Banner.png?raw=true)
+
 <h1 align="center">Hi 👋, I'm VINAY KUMAR MISHRA</h1>
 <h3 align="center">I am a B.Tech Student in Computer Science Engineering(AI&ML) at Haridwar University</h3>
 
